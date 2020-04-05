@@ -1,0 +1,10 @@
+stm32l1xx_hal_lcd.c:132:19:HAL_LCD_DeInit	16	static
+stm32l1xx_hal_lcd.c:177:19:HAL_LCD_Init	24	static
+stm32l1xx_hal_lcd.c:296:14:HAL_LCD_MspDeInit	16	static
+stm32l1xx_hal_lcd.c:311:14:HAL_LCD_MspInit	16	static
+stm32l1xx_hal_lcd.c:379:19:HAL_LCD_Write	32	static
+stm32l1xx_hal_lcd.c:428:19:HAL_LCD_Clear	24	static
+stm32l1xx_hal_lcd.c:487:19:HAL_LCD_UpdateDisplayRequest	24	static
+stm32l1xx_hal_lcd.c:546:22:HAL_LCD_GetState	16	static
+stm32l1xx_hal_lcd.c:556:10:HAL_LCD_GetError	16	static
+stm32l1xx_hal_lcd.c:578:19:LCD_WaitForSynchro	24	static
